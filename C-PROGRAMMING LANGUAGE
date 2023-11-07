@@ -1,0 +1,11 @@
+# Creating a header file
+1. Wrap content inside inclusion check
+2. Include required header files
+3. After, define macros
+4. After, define enum / typedef
+5. After, define structure / union
+6. Write function declaration with proper documentation
+7. Never declare variables here (extern if required)
+
+# Writing a Pre Processor
+1. Include user defined header files first
